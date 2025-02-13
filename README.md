@@ -9,6 +9,7 @@ Ajouter tous les éléements nécessaires au fonctionnement du jeu
 - Ajouter un **élement d'interface** permettant de compter les cartons collectées.
 - Les boites distribuées ne doivent pas avoir la meme taille. **Utilisez les prefabs** appropriés
 
+
 https://github.com/SAE-Geneve/sae-geneve-924-924-unitysummative-924-UnitySummative-Warehouse/blob/64eaaf36971c0a6f6130051ab07ec3d032bb6b1e/Sans-titre-2025-01-14-2248%20(1).png
 
 - Ajoute une des features suivantes :
